@@ -1,0 +1,2 @@
+{"level":"info","message":"Hello, world!","service":"my-app"}
+{"level":"error","message":"Oops, something went wrong!","service":"my-app"}
